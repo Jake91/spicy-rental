@@ -4,6 +4,7 @@ deploy/*
 packages/*
 prod/*
 .vs/*
+RentalCars/.vs/*
 
 ###################
 # compiled source #
